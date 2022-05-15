@@ -1,0 +1,19 @@
+{
+  "name": "actv15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7",
+    "simple-hashtable": "^1.0.1"
+  }
+}
